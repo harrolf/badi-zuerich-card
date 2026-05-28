@@ -2,6 +2,7 @@
   "name": "Badi Zürich Card",
   "description": "Live Lovelace card showing water temperatures and open/closed status for all Zürich outdoor pools (Sommerbäder).",
   "render_readme": true,
+  "filename": "badi-zuerich-card.js",
   "homeassistant": "2023.4.0",
-  "content_in_root": true
+  "country": "CH"
 }
